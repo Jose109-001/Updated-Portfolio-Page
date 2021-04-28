@@ -197,4 +197,4 @@ a statistically higher success rate in your job search
 So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
 
 Press Here to open: https://jose109-001.github.io/Updated-Portfolio-Page/
-Press Here to Open the Resume: https://github.com/Jose109-001/Updated-Portfolio-Page/blob/main/Resume/RESUME%20A.pdf
+Resume: https://github.com/Jose109-001/Updated-Portfolio-Page/blob/main/Resume/RESUME%20A.pdf
